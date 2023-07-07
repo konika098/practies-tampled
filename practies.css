@@ -1,0 +1,43 @@
+/*search start here*/
+.search-bar{
+    
+    padding: 8px;
+    width: 500px;
+    text-align: center;
+    box-shadow: 80deg rgb(32, 31, 31);
+    border-radius: 20px;
+    font-size: 15px;
+    color:black ;
+}
+.s-bar{
+    justify-content: center;
+    align-items: center;
+}
+/*search end here*/
+/*menu start here*/
+.menu-logo{
+    height: 200px;
+    width: 200px;
+}
+.m-one{
+    display: inline;
+    list-style: none;
+    margin-left: 6px;
+    
+    }
+    .menu-container{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+       
+    }
+    .m-button{
+        padding: 15px;
+        font-size: 15px;
+        background-color: rgb(255, 174, 0);
+        border: none;
+        color: white;
+        margin-left: 95px;
+    }
+    /*menu end here*/
+       
